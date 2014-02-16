@@ -13,6 +13,7 @@ Project Description Design and implement an object-oriented Role Playing Game by
 -	You may have skills like double-damage, teleportation, etc.  
 
 General Requirements
+
 Please define and implement the following object-oriented assets in your project:
 •	At least 5 interfaces (with one or more implementations) 
 •	At least 15 classes (implementing the application logic) 
@@ -29,7 +30,11 @@ Please define and implement the following object-oriented assets in your project
 
 TFS or SVN are not allowed. Use Git. 
 
-•	Provide a class diagram (to visualize all types). Optional Requirements If you have a chance, time and a suitable situation, you might add some of the following to your project: 
+•	Provide a class diagram (to visualize all types).
+
+Optional Requirements 
+
+If you have a chance, time and a suitable situation, you might add some of the following to your project: 
 
 •	Static members (fields, properties, constructor, etc.) 
 •	Constants, generic types, indexers, operators 
@@ -37,7 +42,9 @@ TFS or SVN are not allowed. Use Git.
 •	Implementation of IEnumerable&lt;T>, ICloneable, ToString() override 
 •	Namespaces (if your classes are too much)  
 •	User interface (UI) – console, graphical, web or mobile Non-Required Work 
-•	Completely finished project is not obligatory required. It will not be a big problem if your project is not completely finished or is not working greatly. This team work project is for educational purpose. Its main purpose it to experience object-oriented modeling and OOP in a real-world project and to get some experience in team working and team collaboration with Git.  
+•	Completely finished project is not obligatory required. 
+It will not be a big problem if your project is not completely finished or is not working greatly.
+This team work project is for educational purpose. Its main purpose it to experience object-oriented modeling and OOP in a real-world project and to get some experience in team working and team collaboration with Git.  
 
 Deliverables Put the following in a ZIP archive and submit it (each team member submits the same file): 
 •	The complete source code. 
@@ -48,7 +55,8 @@ o	Class diagram of your types
 o	The URL of your Git repository 
 o	Any other information (optionally) 
 
-•	Optionally provide a PowerPoint presentation designed for the project defense. Public Project Defense Each team will have to deliver a public defense of its work in from of the other students and trainers. You will have only 10 minutes for the following: 
+•	Optionally provide a PowerPoint presentation designed for the project defense. 
+Public Project Defense Each team will have to deliver a public defense of its work in from of the other students and trainers. You will have only 10 minutes for the following: 
 •	Demonstrate the application (very shortly). 
 •	Show the class diagram (just a glance). 
 •	Show the source code in the Git web-based source code browser. 

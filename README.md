@@ -30,6 +30,7 @@ Please define and implement the following object-oriented assets in your project
 TFS or SVN are not allowed. Use Git. 
 
 •	Provide a class diagram (to visualize all types). Optional Requirements If you have a chance, time and a suitable situation, you might add some of the following to your project: 
+
 •	Static members (fields, properties, constructor, etc.) 
 •	Constants, generic types, indexers, operators 
 •	Lambda expressions and LINQ 

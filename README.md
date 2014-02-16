@@ -40,7 +40,13 @@ TFS or SVN are not allowed. Use Git.
 
 Deliverables Put the following in a ZIP archive and submit it (each team member submits the same file): 
 •	The complete source code. 
-•	Brief documentation of your project (2-3 pages). It should provide the following information (in brief): o	Team name and list of team members o	Project purpose – what problem do you solve? o	Class diagram of your types o	The URL of your Git repository o	Any other information (optionally) 
+•	Brief documentation of your project (2-3 pages).
+It should provide the following information (in brief): o	Team name and list of team members 
+o	Project purpose – what problem do you solve? 
+o	Class diagram of your types 
+o	The URL of your Git repository 
+o	Any other information (optionally) 
+
 •	Optionally provide a PowerPoint presentation designed for the project defense. Public Project Defense Each team will have to deliver a public defense of its work in from of the other students and trainers. You will have only 10 minutes for the following: 
 •	Demonstrate the application (very shortly). 
 •	Show the class diagram (just a glance). 
